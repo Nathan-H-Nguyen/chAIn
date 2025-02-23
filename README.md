@@ -1,2 +1,4 @@
 # chAIn
-Winter 2025 UCI Blockchain Project
+UCI Blockchain Project
+Winter 2025 
+Team: FreakSeek
